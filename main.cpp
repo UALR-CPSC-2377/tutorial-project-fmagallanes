@@ -1,9 +1,8 @@
-
-
 #include <iostream>
+using namespace std;
 
-// This should not compile
-
-int main () {
-	std::cout << 'Hello World' << std::endl;
+int main () 
+{
+	cout << "Hello World" << endl;
+	return 0;
 }
